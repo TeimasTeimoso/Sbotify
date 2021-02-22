@@ -1,0 +1,5 @@
+toml
+spotipy
+pyaudio
+pocketsphinx
+ibm_watson

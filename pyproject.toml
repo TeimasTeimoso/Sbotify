@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "sbotify"
+version = "1.0"
+description = "Simple spotify voice bot"
+authors = ["TeimasTeimoso <teimas_2010@hotmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

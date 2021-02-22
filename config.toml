@@ -1,0 +1,7 @@
+CLIENT_ID = "7c563f34ad95425090f4c57f5c8f3ded"
+CLIENT_SECRET = "fda0236fe3b74f8081fc00a458d0c3fa"
+REDIRECT_URI = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+SCOPE = "user-library-read user-read-private user-read-playback-state user-modify-playback-state"
+SPEECH_FILE_NAME = "speech.mp3"
+TTS_API_KEY = "1kjInoF9uHIQSWuPFtpqoFHFajhw_ri5TBA6rUw1qXUH"
+TTS_URL = "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/b105f065-faa3-490b-b033-efc59a9544c5"
