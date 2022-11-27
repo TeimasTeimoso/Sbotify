@@ -8,10 +8,9 @@ Simple voice-controlled bot for Spotify.
 + mpg123
 + swig
 + libpulse-dev
-+ poetry
 
 ### Configuring Environment
-To configure the _poetry_ virtual env just run _poetry install --no-root_
+To configure the virtual env just run _pipenv install requirements.txt_
 
 ## Voice Commands
 Action | Voice Command 
